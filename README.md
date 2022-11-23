@@ -129,3 +129,14 @@ Take initiative. Do your own research. Check your work for errors. Solve problem
 * I like to build things and favor creative endeavors.
 * I don’t like to repeat myself.
 * I prefer facts over sweeping/dramatic statements. The terms “all”, “always”, “never”, and “every”, are rarely accurate”. I also will challenge a false dichotomy (e.g. Ricky Bobby - "If You Ain't First, Yer Last!") (Credit: Rob Dozier)
+
+Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
+
+This work is licensed under a
+[Creative Commons Attribution 4.0 International License][cc-by].
+
+[![CC BY 4.0][cc-by-image]][cc-by]
+
+[cc-by]: http://creativecommons.org/licenses/by/4.0/
+[cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
+[cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
